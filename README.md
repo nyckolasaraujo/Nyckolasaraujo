@@ -1,7 +1,7 @@
 :construction::statue_of_liberty::books:
 
 # 'Olá sou o Nyckolas e quero ser um futuro programador'
-estou estudando e criando projetos com HTML,CSS,JavaScript e React.
+estou estudando e criando projetos com HTML,CSS. Atualmente começando JavaScript e React.
 Pela formação online Dev Club.
 <br>
 <br>
@@ -15,5 +15,7 @@ Pela formação online Dev Club.
 
 .    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 
+[![Nyckolas stats](https://github-readme-stats.vercel.app/api?username=Nyckolasaraujo)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyckolasaraujo)](https://github.com/anuraghazra/github-readme-stats)
 
