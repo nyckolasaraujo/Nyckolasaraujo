@@ -1,6 +1,6 @@
 :construction::statue_of_liberty::books:
 
-# 'Olá sou o Nyckolas e quero ser um futuro programador'
+# 'Desenvolvedor front end'
 estou estudando e criando projetos com HTML,CSS. Atualmente começando JavaScript e React.
 Pela formação online Dev Club.
 <br>
