@@ -1,8 +1,8 @@
 :construction::statue_of_liberty::books:
 
 # 'Desenvolvedor front end'
-estou estudando e criando projetos com HTML,CSS. Atualmente começando JavaScript e React.
-Pela formação online Dev Club.
+
+.
 <br>
 <br>
 <br>
