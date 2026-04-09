@@ -23,7 +23,4 @@ Sinta-se à vontade para explorar meus repositórios e acompanhar meu progresso!
 
 
 
-[![Nyckolas stats](https://github-readme-stats.vercel.app/api?username=Nyckolasaraujo)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyckolasaraujo)](https://github.com/anuraghazra/github-readme-stats)
 
