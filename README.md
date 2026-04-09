@@ -8,7 +8,7 @@ Atualmente, estou desenvolvendo projetos práticos que me ajudam a consolidar me
 
 Sinta-se à vontade para explorar meus repositórios e acompanhar meu progresso!
 
-🚀 **Vamos construir algo incrível juntos!**
+🚀
 
 .
 <br>
