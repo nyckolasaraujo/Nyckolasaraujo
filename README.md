@@ -2,10 +2,7 @@
 
 # 'Desenvolvedor front end' 👋
 
-Sou um estudante dedicado de **Desenvolvimento Front-End**, com foco em aprender e aprimorar minhas habilidades em **HTML**, **CSS** e **JavaScript**. Tenho me dedicado a entender as melhores práticas de desenvolvimento web e criar projetos que entreguem tanto um design atraente quanto uma boa experiência do usuário.
-
-Atualmente, estou desenvolvendo projetos práticos que me ajudam a consolidar meu aprendizado e melhorar minha capacidade de resolução de problemas. Tenho facilidade em aprender novas tecnologias e gosto de enfrentar desafios que me permitam crescer como desenvolvedor.
-
+Sou um estudante dedicado de **Desenvolvimento Front-End**, com foco em aprender e aprimorar minhas habilidades em **HTML**, **CSS** e **JavaScript**.
 Sinta-se à vontade para explorar meus repositórios e acompanhar meu progresso!
 
 🚀
